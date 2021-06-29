@@ -1,6 +1,8 @@
 # php-sound
 A Windows version of floppydisk05's php-sound
 
+I haven't tested this yet lmao
+
 # Instructions
 1. Delete a.mp3
 2. Place an audio file somewhere
