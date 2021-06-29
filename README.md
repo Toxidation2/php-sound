@@ -10,4 +10,4 @@ I haven't tested this yet lmao
 4. Edit index.php to specify where your annoy.bat, annoy.vbs, and your music file is (e.g. "change annoy.bat" to "C:\annoy.bat")
 5. Edit annoy.bat to specify what audio file you want to play (e.g. change "annoy.vbs a.mp3" to "annoy.vbs b.mp3") 
 7. Move index.php to where all of your web server's documents are contained
-8. Done
+8. Done, now go to where the index.php file is and then you should hear a sound come from the server
